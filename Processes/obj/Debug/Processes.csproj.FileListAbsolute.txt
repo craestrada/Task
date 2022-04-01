@@ -1,0 +1,10 @@
+C:\Users\alestr\source\repos\Processes\Processes\bin\Debug\Processes.exe.config
+C:\Users\alestr\source\repos\Processes\Processes\bin\Debug\Processes.exe
+C:\Users\alestr\source\repos\Processes\Processes\bin\Debug\Processes.pdb
+C:\Users\alestr\source\repos\Processes\Processes\obj\Debug\Processes.csprojAssemblyReference.cache
+C:\Users\alestr\source\repos\Processes\Processes\obj\Debug\Processes.Task.resources
+C:\Users\alestr\source\repos\Processes\Processes\obj\Debug\Processes.Properties.Resources.resources
+C:\Users\alestr\source\repos\Processes\Processes\obj\Debug\Processes.csproj.GenerateResource.cache
+C:\Users\alestr\source\repos\Processes\Processes\obj\Debug\Processes.csproj.CoreCompileInputs.cache
+C:\Users\alestr\source\repos\Processes\Processes\obj\Debug\Processes.exe
+C:\Users\alestr\source\repos\Processes\Processes\obj\Debug\Processes.pdb
